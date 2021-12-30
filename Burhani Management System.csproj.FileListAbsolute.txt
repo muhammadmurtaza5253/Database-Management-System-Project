@@ -1,0 +1,15 @@
+D:\Burhani Management System\Burhani Management System\bin\Debug\Burhani Management System.exe.config
+D:\Burhani Management System\Burhani Management System\bin\Debug\Burhani Management System.exe
+D:\Burhani Management System\Burhani Management System\bin\Debug\Burhani Management System.pdb
+D:\Burhani Management System\Burhani Management System\obj\Debug\Burhani Management System.csproj.AssemblyReference.cache
+D:\Burhani Management System\Burhani Management System\obj\Debug\Burhani_Management_System.login_form.resources
+D:\Burhani Management System\Burhani Management System\obj\Debug\Burhani_Management_System.Properties.Resources.resources
+D:\Burhani Management System\Burhani Management System\obj\Debug\Burhani Management System.csproj.GenerateResource.cache
+D:\Burhani Management System\Burhani Management System\obj\Debug\Burhani Management System.csproj.CoreCompileInputs.cache
+D:\Burhani Management System\Burhani Management System\obj\Debug\Burhani Management System.exe
+D:\Burhani Management System\Burhani Management System\obj\Debug\Burhani Management System.pdb
+D:\Burhani Management System\Burhani Management System\obj\Debug\Burhani_Management_System.product_retrieval_form.resources
+D:\Burhani Management System\Burhani Management System\obj\Debug\Burhani_Management_System.product_info.resources
+D:\Burhani Management System\Burhani Management System\obj\Debug\Burhani_Management_System.orders_form.resources
+D:\Burhani Management System\Burhani Management System\obj\Debug\Burhani_Management_System.orders_retreive_form.resources
+D:\Burhani Management System\Burhani Management System\obj\Debug\Burhani_Management_System.main_app_form.resources
